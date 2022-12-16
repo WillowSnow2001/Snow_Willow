@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(54, 49, 65);
+    opacity: 1;
+}
+.aboutMeBg {
+    background-image: url('../Images/OrangeBrd.jpg');
+    background-position: top left;
+    background-size: 100%;
+    background-blend-mode: luminosity;
+    /* blending the colors  */
+    background-color: rgba(249, 249, 176, 0.718);
+}
+.tabDescText{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(35, 35, 28);
+}
+.resumeBg {
+
+    background-image: url('../Images/SpaceCity.jpg');
+    background-position: top right;
+    background-size: 8cm;
+    background-repeat: no-repeat;
+    background-color: rgba(176, 249, 249, 0.338);
+    }
+li {
+    font-size: 13px;
+    font-style: italic;
+    font-weight: bolder;
+}
+a {
+    color: rgb(3, 94, 150);
+    text-decoration: none;
+    font-weight: 500;
+}
+.resumelistHeading {font-weight: bold;
+    font-style: normal;}
+.justify{text-align: justify;} 
+/* left right center and justify are the options */
+
+.boldItalic {font-weight: bold; font-style: italic;}
+
+.MusicTop {width: "200"; height: "300";}
+
+mark{
+    background-color: blanchedalmond;
+    color: rgb(54, 49, 65);
+}
+
+
+
